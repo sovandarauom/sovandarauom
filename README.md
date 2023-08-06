@@ -23,10 +23,10 @@
 
 <h3 align="left">Github Action Collection</h3>
 
-| Description                                 | Repository                                                 |
-|---------------------------------------------|------------------------------------------------------------|
-| Run Liquibase migration with Github Actions | https://github.com/sovandarauom/liquibase-pg-github-action |
-| Build Spring boot with Github Actions       | https://github.com/sovandarauom/spring-az-github-action    |
-| Deploy Bicep with with Github Actions       | https://github.com/sovandarauom/bicep-github-action        |
-| Run snyk code scan with Github Action       |                                                            |
+| Description                                          | Repository                                                 |
+|------------------------------------------------------|------------------------------------------------------------|
+| Run Liquibase migration with Github Actions          | https://github.com/sovandarauom/liquibase-pg-github-action |
+| Build Spring boot with Github Actions                | https://github.com/sovandarauom/spring-az-github-action    |
+| Deploy Azure Resource with with Github Actions       | https://github.com/sovandarauom/az-bicep-container-app     |
+| Run snyk code scan with Github Action                |                                                            |
 
